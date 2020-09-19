@@ -38,3 +38,4 @@ print(middleSubstring("ABCDEFGHIJ"))
 print(middleSubstring("ABCDEFGHIJK"))
 print(middleSubstring("ABCDEFGHIJKL"))
 # print(middleSubstring("fundamental"))
+# test
