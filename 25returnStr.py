@@ -12,6 +12,7 @@
 # middleSubstring("ABCDEFGHIJKL") --> DEFGHI
 # middleSubstring("fundamental") --> damen
 
+
 import math
 
 def middleSubstring(string):
